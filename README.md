@@ -1,7 +1,3 @@
-dataset used: Amazon Business Research Analyst Dataset
-
-https://www.kaggle.com/datasets/vikramxd/amazon-business-research-analyst-dataset
-
 Project Question: 
 
 What factors affect the time it takes to complete a food delivery order?
@@ -18,5 +14,10 @@ From a business perspective, it is important to understand this problem because 
 3. Operational Efficiency
 4. Adaptation to Market Trends
 5. Customer Insights and Feedback
+
+dataset used: Amazon Business Research Analyst Dataset
+
+https://www.kaggle.com/datasets/vikramxd/amazon-business-research-analyst-dataset
+
 
 
